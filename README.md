@@ -16,7 +16,7 @@ Associate of Computer Engineering
 - **Languages:** C/C++, Python, HTML, CSS, Java, JavaScript
 - **Web Technologies:** React, SQL
 - **Project Management Tools:** Asana, Slack
-- **Design Tools:** Figma
+- **Design Tools:** Figma, Canva
 - **Methodologies:** Agile & Scrum
 - **Other Skills:** Project Management, Leadership, Communication Skills, Problem Solving
 

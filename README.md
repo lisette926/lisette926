@@ -1,4 +1,4 @@
-![Profile Banner](https://media.licdn.com/dms/image/D4E16AQHp9x8r9w-40w/profile-displaybackgroundimage-shrink_350_1400/0/1709168494694?e=1727913600&v=beta&t=FLbLsT70c9E6tMxI1WTM0jrdO6gboHevW1EwizbFjYQ) 
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQHp9x8r9w-40w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709168494694?e=1735171200&v=beta&t=9qqWdOkFDekoGNxCoBIKkqKZi6SxQxAdKneRXee9LOU) 
 # Hello, I'm Lisette Hawkins 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer in the making with experience in web development and full-stack development. I love solving complex problems and continuously improving my skills.
@@ -13,8 +13,7 @@ Associate of Computer Engineering
 
 ## 🚀 Skills
 
-- **Languages:** C/C++, Python, HTML, CSS, Java, JavaScript
-- **Web Technologies:** React, SQL
+- **Languages & Frameworks:** C/C++, Python, HTML, CSS, Java, JavaScript, TypeScript, React, SQL
 - **Project Management Tools:** Asana, Slack
 - **Design Tools:** Figma, Canva
 - **Methodologies:** Agile & Scrum
@@ -22,7 +21,7 @@ Associate of Computer Engineering
 
 ## 🌱 Current Learning Goals
 - Deepening my knowledge in **data analytics** to leverage data-driven decision-making in projects.
-- Exploring more about user experience (UX) design principles to create intuitive and user-friendly interfaces.
+- Exploring more about **user experience (UX)** design principles to create intuitive and user-friendly interfaces.
 
 ## 📫 Get in Touch
 Feel free to connect with me through [LinkedIn](https://linkedin.com/in/lisettehawkins/)!
